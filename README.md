@@ -1,6 +1,6 @@
-# FurDevsCN
+# CSASLU Website
 
-一个有态度的小动物开发团队
+Forge Alchemy, Sculpt Epochs.
 
 ## Quick start
 
@@ -18,7 +18,7 @@ You can contribute by:
 - Open a [PR](https://github.com/FurDevsCN/FurDevsCN/pulls "PR")
 - Open an [issue](https://github.com/FurDevsCN/FurDevsCN/issues "issue")
 
-## License
+## Original License
 
     Copyright (C) 2023 FurDevsCN
 
