@@ -41,7 +41,7 @@ export default {
           class="dark:w-full dark:h-full dark:absolute dark:inset-0 dark:bg-black dark:opacity-30"
         ></div>
         <video class="object-cover w-full h-full" autoplay muted loop>
-          <source src="/lida.mp4" type="video/mp4" />
+          <source src="https://cdn.gh.ink/video/lida/lida.mp4" type="video/mp4" />
         </video>
       </div>
     </div>
