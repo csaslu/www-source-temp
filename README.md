@@ -4,17 +4,18 @@ Forge Alchemy, Sculpt Epochs.
 
 ## Quick start
 
-	git clone https://www.github.com/FurDevsCN/FurDevsCN
-	pnpm install
-	pnpm dev
+    git clone https://www.github.com/FurDevsCN/FurDevsCN
+    pnpm install
+    pnpm dev
 
 ## Deployment
 
-	pnpm build && pnpm preview
+    pnpm build && pnpm preview
 
 ## Contribution
 
 You can contribute by:
+
 - Open a [PR](https://github.com/FurDevsCN/FurDevsCN/pulls "PR")
 - Open an [issue](https://github.com/FurDevsCN/FurDevsCN/issues "issue")
 

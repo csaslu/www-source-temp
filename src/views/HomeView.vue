@@ -14,16 +14,16 @@ export default {
 };
 </script>
 <template>
-  <div
-    class="flex flex-col h-screen justify-between overflow-hidden"
-  >
+  <div class="flex flex-col h-screen justify-between overflow-hidden">
     <div class="relative h-screen">
       <div
         class="w-screen max-w-2xl absolute inset-0 filter backdrop-blur-md rounded-xl"
       >
         <div class="mx-20 flex-col">
           <img src="/logo.svg" class="h-80 mt-36 max-xl:mt-24" />
-          <p class="mt-16 mb-36 text-3xl text-gray-100 dark:text-slate-100 font-bold">
+          <p
+            class="mt-16 mb-36 text-3xl text-gray-100 dark:text-slate-100 font-bold"
+          >
             Forge Alchemy, Sculpt Epochs.
           </p>
           <div class="md:flex md:items-center mt-6">
@@ -49,9 +49,9 @@ export default {
   <announcementBar>
     <a class="text-white">🎉我们正在招新！</a>
     <a
-        href="javascript:void(0)"
-        @click="scrollIntoView"
-        class="text-white nounderline hover:underline"
+      href="javascript:void(0)"
+      @click="scrollIntoView"
+      class="text-white nounderline hover:underline"
     >
       <b>点击这里查看详情 →</b>
     </a>

@@ -20,10 +20,16 @@
         如果你是立达的学生，可以通过以下方式加入我们
         <li>📍 上海立达学院 7106 教室</li>
         <li>📧 contact@csaslu.com</li>
-        <li>🖊 <a href="https://docs.qq.com/form/page/DZU9jRGdOc0JuUFdV" style="color: cornflowerblue">在线申请表</a></li>
+        <li>
+          🖊
+          <a
+            href="https://docs.qq.com/form/page/DZU9jRGdOc0JuUFdV"
+            style="color: cornflowerblue"
+            >在线申请表</a
+          >
+        </li>
       </span>
     </div>
   </div>
 </template>
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
