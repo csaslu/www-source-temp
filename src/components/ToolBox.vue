@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col overflow-x-hidden">
     <ScrollToTop v-show="showScroll" />
-    <DarkModeButton />
+    <!--    <DarkModeButton />-->
   </div>
 </template>
 <script lang="ts">

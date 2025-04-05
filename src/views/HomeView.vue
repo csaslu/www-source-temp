@@ -20,9 +20,12 @@ export default {
         class="w-screen max-w-2xl absolute inset-0 filter backdrop-blur-md rounded-xl"
       >
         <div class="mx-20 flex-col">
-          <img src="/logo.svg" class="h-80 mt-36 max-xl:mt-24" />
+          <img
+            src="/logo.svg"
+            class="h-80 mt-36 max-xl:mt-26 max-xl:h-60 max-sm:mt-16 max-sm:h-40"
+          />
           <p
-            class="mt-16 mb-36 text-3xl text-gray-100 dark:text-slate-100 font-bold"
+            class="mt-16 mb-36 text-3xl max-sm:text-2xl text-gray-100 dark:text-slate-100 font-bold"
           >
             Forge Alchemy, Sculpt Epochs.
           </p>
@@ -30,7 +33,7 @@ export default {
             <a href="https://github.com/csaslu" class="ml-5">
               <img
                 src="/Github.svg"
-                class="h-16 max-sm:mt-4 invert dark:filter dark:invert"
+                class="h-16 mt-4 max-sm:mt-2 max-sm:h-112 invert dark:filter dark:invert"
               />
             </a>
           </div>
@@ -41,7 +44,10 @@ export default {
           class="dark:w-full dark:h-full dark:absolute dark:inset-0 dark:bg-black dark:opacity-30"
         ></div>
         <video class="object-cover w-full h-full" autoplay muted loop>
-          <source src="https://cdn.gh.ink/video/lida/lida.mp4" type="video/mp4" />
+          <source
+            src="https://cdn.gh.ink/video/lida/lida.mp4"
+            type="video/mp4"
+          />
         </video>
       </div>
     </div>

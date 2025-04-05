@@ -5,7 +5,7 @@
         <a href="/"
           ><img
             src="/lida.svg"
-            class="animate-bounce h-12 mx-auto mb-8 max-mb:mb-6 hover:animate-none dark:filter dark:invert"
+            class="animate-bounce h-12 mx-auto mb-8 max-mb:mb-6 hover:animate-none"
         /></a>
       </div>
       <div class="text-center mb-4">
