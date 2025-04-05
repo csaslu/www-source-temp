@@ -69,3 +69,9 @@ export default {
     </a>
   </announcementBar>
 </template>
+
+<style scoped>
+video {
+  background: url("/bg.webp") no-repeat center;
+}
+</style>
